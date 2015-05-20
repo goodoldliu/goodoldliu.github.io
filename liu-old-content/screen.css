@@ -17,7 +17,7 @@ body{margin-left:auto;margin-right:auto;margin-top:0px;padding:0px;border:0px;wi
 #head,#middle,#foot{clear:both;}
 .print,.handheld{display:none;}
 a img{border:0px;}
-#head{color:#666;background-color:#437bbe;background-image:url('https://ysektionen.se/goodoldliu/head-top-and-content.jpeg/at_download/file');background-repeat:no-repeat;}
+#head{color:#666;background-color:#437bbe;background-image:url('http://goodoldliu.github.io/liu-old-content/head-top-and-content.jpeg');background-repeat:no-repeat;}
 #head a{color:#333;}
 #head a:link{font-weight:inherit;}
 #head-content,#head-content a{color:#fff;}
