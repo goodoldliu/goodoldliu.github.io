@@ -1,0 +1,101 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 7:59:55 Mar 15, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:19:15 May 20, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+.cleaner{clear:both;}
+br.cleaner{height:1px;margin:0px;padding:0px;border:0px;}
+html{color:#000;}
+a{color:#29679f;}
+a:visited{color:#29679f;}
+a,a:link,a:visited{font-weight:bold;text-decoration:none;}
+a:hover{text-decoration:underline;}
+h1 a,h1 a:link,h1 a:visited,h2 a,h2 a:link,h2 a:visited{font-weight:inherit;}
+@font-face{
+font-family:ScalaSansWeb-Cond;src:url("http://www.liu.se/mall11/font/ScalaSansWeb-Cond.eot") format("eot"),url("http://www.liu.se/mall11/font/ScalaSansWeb-Cond.woff") format("woff");font-stretch:condensed;}
+@font-face{
+font-family:ScalaSansWeb-CondBold;src:url("http://www.liu.se/mall11/font/ScalaSansWeb-CondBold.eot") format("eot"),url("http://www.liu.se/mall11/font/ScalaSansWeb-CondBold.woff") format("woff");font-stretch:condensed;font-weight:bold;}
+html,body{font-family:verdana,arial,helvetica,sans-serif;}
+html{font-size:100%;}
+body{font-size:70%;line-height:160%;}
+p{margin:0 0 0.6em 0;}
+h1{font-family:ScalaSansWeb-CondBold,"Arial Narrow",Arial,"Liberation Sans",helvetica,sans-serif;font-size-adjust:0.47;font-size:285%;margin-top:29px;margin-bottom:16px;font-stretch:condensed;font-weight:bold;}
+h2{font-family:ScalaSansWeb-Cond,"Arial Narrow",Arial,"Liberation Sans",helvetica,sans-serif;font-size-adjust:0.455;font-weight:normal;font-size:200%;margin-top:19px;margin-bottom:9px;font-stretch:condensed;}
+h3{font-family:verdana,sans-serif;font-weight:bold;font-size:135%;margin-top:15px;margin-bottom:13px;}
+h4{font-family:verdana,sans-serif;font-weight:bold;font-size:120%;margin-top:18px;margin-bottom:13px;}
+h5{font-family:verdana,sans-serif;font-weight:normal;font-size:120%;margin-top:21px;margin-bottom:13px;}
+h6{font-family:verdana,sans-serif;font-weight:normal;font-style:italic;font-size:120%;margin-top:21px;margin-bottom:13px;}
+h1,h2,h3,h4,h5,h6{line-height:100%;}
+.vinjett{font-family:tahoma,verdana,sans-serif;font-size-adjust:0.552;border-bottom:1px solid #ccc;color:#000;font-size:100%;font-weight:bold;letter-spacing:1px;line-height:130%;margin:0 0 0.5em 0;padding:0 0 0.3em 0;text-transform:uppercase;font-stretch:normal;}
+h1.bigh,h2.bigh,h5.bigh{font-family:ScalaSansWeb-CondBold,Georgia,verdana,sans-serif;font-size-adjust:0.455;font-weight:normal;}
+h3.bigh,h4.bigh{font-family:ScalaSansWeb-Cond,Georgia,verdana,sans-serif;font-size-adjust:0.47;font-weight:normal;}
+h4.bigh,h5.bigh{color:#333;}
+h1.bigh{font-size:410%;}
+h2.bigh{font-size:285%;}
+h3.bigh{font-size:213%;}
+h4.bigh{font-size:178%;}
+h5.bigh{font-size:160%;}
+code,pre{font-family:Courier New,Courier,monospace;font-size:100%;}
+table{font-family:"Lucida Sans Unicode","Lucida Grande",Sans-Serif;text-align:left;margin:20px;border-collapse:collapse;font-size:100%;}
+table tr{font-size:100%;}
+table tr th,table thead tr th{font-weight:bold;vertical-align:top;text-align:center;color:#666;font-size:120%;border-bottom:2px solid #666;background-color:inherit;}
+table tr th[scope="row"]{border-right:2px solid #666;border-bottom:0px;}
+table td{vertical-align:top;color:#666;}
+table tbody tr:hover td{color:#000;}
+table caption{text-align:center; border:0;}
+ul{list-style:url(http://www.liu.se/mall11/images/listpil.gif);list-style-position:inherit;margin:1em 0;padding:0 0 0 20px;overflow:hidden;}
+ol{margin:1em 0 1em 1.5em;padding:0 0 0 1em;list-style:decimal outside none;}
+.img_right,.wp-caption.alignright,.entry img.alignright{float:right;margin:0px 0 0px 8px;}
+.img_left,.wp-caption.alignleft,.entry img.alignleft{float:left;margin:0px 8px 0px 0;}
+.img_middle,.wp-caption.aligncenter,.entry img.aligncenter{display:block;margin:0 auto 0 auto;text-align:center;}
+img{border:none;}
+#content img{max-width:100%;}
+.content-responsible{margin-top:2ex;}
+#content>div.text{margin-top:10px;}
+#content>div.text>h1:first-child,#content>div.text>div.content-left:first-child>div.text>h1:first-child,#content>div.text>div.content-right:nth-child(2)>div.text>h1:first-child,#content>div.text>h2:first-child,#content>div.text>div.content-left:first-child>div.text>h2:first-child,#content>div.text>div.content-right:nth-child(2)>div.text>h2:first-child{margin-top:20px;}
+#content .head-article{position:relative;background-image:url('http://www.liu.se/mall11/images/head-bottom.png');background-repeat:repeat-x;background-color:#f2f2f2;}
+#content .head-article>p{margin:0;}
+#content .head-article .newTickerContainer{clear:both;}
+.head-article div.ie-compat-bugfix{height:0;color:#f2f2f2;overflow:hidden;}
+.head-article-menu{float:left;margin-left:20px;margin-top:45px;}
+.head-article-menu div{width:190px;background:#437bbe;padding:2ex 0;margin-bottom:2px;}
+.head-article-menu div a{margin-left:10px;color:#FFF;}
+.head-article-menu div>a{font-size:200%;font-family:ScalaSansWeb-CondBold,"Arial Narrow",Arial,"Liberation Sans",helvetica,sans-serif;font-weight:normal;}
+.head-article-menu div ul{list-style:none;list-style-image:none;margin:0px;padding:0px;font-size:120%;}
+.head-article-menu-filler{width:1px;height:320px;float:right;}
+@media screen and (max-device-width:767px){
+.head-article-menu div>a{font-size:120%;}
+.head-article-menu div{margin:1px;padding:1ex;}}
+@media screen and (max-device-width:767px){
+.head-article-menu.melkertest{margin:0; padding:0; border:0;}
+.head-article-menu.melkertest div{width:46%;float:left;margin:1%;border:0;padding:10px 1%;}}
+@media screen and (max-device-width:767px) and (orientation:landscape){
+.head-article-menu.melkertest div{width:29%;}}
+.width_100{width:100%;}
+select.width_100,textarea.width_100,input.width_100{margin:0.5em 0;}
+.filfak-h1{margin:0.9em 0px;border-bottom-style:none;}
+.filfak-h2{background-image:url(http://www.liu.se/mall06/grafik/punkt_medel.png);background-position:center left;background-repeat:no-repeat;margin-left:0px;padding-left:15px;}
+.filfak-ul{margin-left:0px;list-style-image:url(http://www.liu.se/mall06/grafik/punkt_liten.jpg);background-position:top left;background-repeat:no-repeat;}
+table.coloredlines td,table.coloredlines th,table.coloredlines tr{padding:4px;}
+table.tablesorter thead tr .header{background-image:url(http://www.liu.se/mall11/images/bg.gif);background-repeat:no-repeat;background-position:center right;cursor:pointer;padding:0px 20px;}
+table.tablesorter thead tr .headerSortUp{background-image:url(http://www.liu.se/mall11/images/asc.gif);}
+table.tablesorter thead tr .headerSortDown{background-image:url(http://www.liu.se/mall11/images/desc.gif);}
+
+div.content-left{clear:both;}
+div.content-left,div.content-right{float:left;}
+div.content-30{width:29.9%;}
+div.content-33{width:33.2%;}
+div.content-50{width:49.9%;}
+div.content-66{width:66.5%;}
+div.content-70{width:69.9%;}
+div.content-left>div.text{margin-right:10px;}
+div.content-right>div.text{margin-left:10px;}

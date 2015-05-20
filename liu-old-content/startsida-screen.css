@@ -1,0 +1,33 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 13:39:06 Feb 23, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:19:15 May 20, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/* TODO Menyn borde ligga här, både vanl och mobil */
+
+/* TODO Ta bort bild i huvudet??? */
+
+
+
+/* Specialrubriker pa kalendariet */
+#content.full >  div.text > div.content-right > div.text > div.content-left h3 {
+	font-family: ScalaSansWeb-Cond,"Arial Narrow",Arial,"Liberation Sans",helvetica,sans-serif;
+	font-size: 170%;
+	margin-top: 0.6em;
+	margin-bottom: 0;
+	font-weight: normal;
+}
+#content.full >  div.text > div.content-right > div.text > div.content-left em {
+	color: #707070;
+}
+#content.full >  div.text > div.content-right > div.text > div.content-left p {
+	margin: 0;
+}
