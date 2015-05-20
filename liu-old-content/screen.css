@@ -17,13 +17,13 @@ body{margin-left:auto;margin-right:auto;margin-top:0px;padding:0px;border:0px;wi
 #head,#middle,#foot{clear:both;}
 .print,.handheld{display:none;}
 a img{border:0px;}
-#head{color:#666;background-color:#437bbe;background-image:url('http://goodoldliu.github.io/liu-old-content/head-top-and-content.jpeg');background-repeat:no-repeat;}
+#head{color:#666;background-color:#437bbe;background-image:url('https://goodoldliu.github.io/liu-old-content/head-top-and-content.jpeg');background-repeat:no-repeat;}
 #head a{color:#333;}
 #head a:link{font-weight:inherit;}
 #head-content,#head-content a{color:#fff;}
 #head-top{height:21px;}
 #head-content{width:100%;height:104px;overflow:hidden;position:relative;}
-#head-bottom{background-image:url('http://www.liu.se/mall11/images/head-bottom.png');background-repeat:repeat-x;background-color:#f2f2f2;width:100%;padding-top:6px;padding-bottom:3px;margin:0px;}
+#head-bottom{background-image:url('https://www.liu.se/mall11/images/head-bottom.png');background-repeat:repeat-x;background-color:#f2f2f2;width:100%;padding-top:6px;padding-bottom:3px;margin:0px;}
 #head-image{position:absolute;top:0px;left:0px;z-index:1;}
 #head-lang{float:right;z-index:3;position:relative;margin:5px;margin-right:10px;width:auto;}
 #page-lang{float:right;z-index:2;position:relative;}
@@ -44,7 +44,7 @@ a img{border:0px;}
 #navbar{clear:both;float:left;position:relative;z-index:2;}
 #logged-in{position:absolute;top:0;right:0;}
 #head-bottom-end{clear:both;}
-#middle{background-color:#FFF;background-image:url('http://www.liu.se/mall11/images/middle-bkgr.png');background-repeat:repeat-y;}
+#middle{background-color:#FFF;background-image:url('https://www.liu.se/mall11/images/middle-bkgr.png');background-repeat:repeat-y;}
 #menu{background-color:#FFF;float:left;width:19%;overflow:hidden;font-size:110%;font-family:arial,"Liberation Sans",helvetica,sans-serif;}
 #menu ul{list-style:none;list-style-image:none;margin:0px;padding:0px;width:100%;}
 #menu ul li,#menu h2{border-bottom:1px solid #eee;margin:0px;padding:0px;left:0px;right:0px;}
@@ -55,7 +55,7 @@ a img{border:0px;}
 #menu ul li.selected{background-color:#f2f2f2;border-bottom:1px solid white;}
 #menu ul li.menu_heading_first,#menu h2{padding-left:0.8ex;background-color:#437bbe;color:#fff;font-weight:bold;font-size:120%;font-family:inherit;padding-top:5px;padding-bottom:5px;}
 #menu ul li.menu_heading_first a{color:#fff;font-weight:bold;font-size:100%;font-family:inherit;}
-#menu ul li.menu_heading{padding-left:1.2ex;font-weight:bold;font-size:100%;font-family:inherit;text-transform:uppercase;color:#fff;background-color:#7a7a7a;background-image:url('http://www.liu.se/mall11/images/menu-bkgr.png');background-repeat:repeat-x;background-position:center top;background-image:-webkit-linear-gradient(top,#bcbcbc,#7a7a7a);background-image:-moz-linear-gradient(top,#bcbcbc,#7a7a7a);background-image:-ms-linear-gradient(top,#bcbcbc,#7a7a7a);background-image:-o-linear-gradient(top,#bcbcbc,#7a7a7a);background-image:linear-gradient(top,#bcbcbc,#7a7a7a);margin-top:0px;border-top:1px solid #aeaeae;border-bottom:1px solid #000;padding-top:8px;padding-bottom:1px;}
+#menu ul li.menu_heading{padding-left:1.2ex;font-weight:bold;font-size:100%;font-family:inherit;text-transform:uppercase;color:#fff;background-color:#7a7a7a;background-image:url('https://www.liu.se/mall11/images/menu-bkgr.png');background-repeat:repeat-x;background-position:center top;background-image:-webkit-linear-gradient(top,#bcbcbc,#7a7a7a);background-image:-moz-linear-gradient(top,#bcbcbc,#7a7a7a);background-image:-ms-linear-gradient(top,#bcbcbc,#7a7a7a);background-image:-o-linear-gradient(top,#bcbcbc,#7a7a7a);background-image:linear-gradient(top,#bcbcbc,#7a7a7a);margin-top:0px;border-top:1px solid #aeaeae;border-bottom:1px solid #000;padding-top:8px;padding-bottom:1px;}
 #menu ul li.menu_heading a{color:#666;font-weight:bold;font-size:100%;font-family:inherit;text-transform:uppercase;}
 #menu a{color:#333;display:block;padding:4px;padding-left:1ex;}
 #content.full{width:100%;}
@@ -101,4 +101,4 @@ div.content-right>div.text{margin-left:0px;}
 #showmenu:hover{height:0px;overflow:hidden;color:#437bbe;z-index:0;}
 #foot .foot-column{width:50%;}
 #foot .foot-column:nth-child(3){clear:both;}
-#head{background-position:left bottom;background-image:url('http://www.liu.se/mall11/images/head-content.jpeg');}}
+#head{background-position:left bottom;background-image:url('https://www.liu.se/mall11/images/head-content.jpeg');}}

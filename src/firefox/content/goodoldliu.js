@@ -12,13 +12,13 @@ var sheets = document.getElementsByTagName("link");
  
 for (var i=0; i<sheets.length; ++i) {
     if (sheets[i].href.indexOf('content.css') != -1) {
-        sheets[i].href = 'http://goodoldliu.github.io/liu-old-content/content.css';
+        sheets[i].href = 'https://goodoldliu.github.io/liu-old-content/content.css';
     }
     if (sheets[i].href.indexOf('screen.css') != -1) {
-        sheets[i].href = 'http://goodoldliu.github.io/liu-old-content/screen.css';
+        sheets[i].href = 'https://goodoldliu.github.io/liu-old-content/screen.css';
     }
     if (sheets[i].href.indexOf('start-screen.css') != -1) {
-        sheets[i].href = 'http://goodoldliu.github.io/liu-old-content/startsida-screen.css';
+        sheets[i].href = 'https://goodoldliu.github.io/liu-old-content/startsida-screen.css';
     }
 }
  
@@ -26,17 +26,17 @@ var myDiv = document.getElementById("logo");
  
 if(myDiv != null)
 {
-  myDiv.innerHTML = "<a href='http://www.liu.se/?l=en' accesskey='1'><img class='screen sign' src='http://goodoldliu.github.io/liu-old-content/sigill-huvud.png' alt='LiUs logotype'><div id='head-title-html'><h1><span class='smaller'>Welcome to </span><br>Linköping University</h1></div><img class='handheld' alt='LiUs logotype' src='http://goodoldliu.github.io/liu-old-content/sigill.png' height='0' width='0'></a><img class='print' alt='LiUs logotype' src='http://goodoldliu.github.io/liu-old-content/logo-print.png' height='0' width='0'>";
+  myDiv.innerHTML = "<a href='https://www.liu.se/?l=en' accesskey='1'><img class='screen sign' src='https://goodoldliu.github.io/liu-old-content/sigill-huvud.png' alt='LiUs logotype'><div id='head-title-html'><h1><span class='smaller'>Welcome to </span><br>Linköping University</h1></div><img class='handheld' alt='LiUs logotype' src='https://goodoldliu.github.io/liu-old-content/sigill.png' height='0' width='0'></a><img class='print' alt='LiUs logotype' src='https://goodoldliu.github.io/liu-old-content/logo-print.png' height='0' width='0'>";
 }
  
   
 /*!
  * Dynamically changing favicons with JavaScript
  * Works in all A-grade browsers except Safari and Internet Explorer
- * Demo: http://mathiasbynens.be/demo/dynamic-favicons
+ * Demo: https://mathiasbynens.be/demo/dynamic-favicons
  */
  
-// HTML5, baby! http://mathiasbynens.be/notes/document-head
+// HTML5, baby! https://mathiasbynens.be/notes/document-head
 document.head = document.head || document.getElementsByTagName('head')[0];
  
 function changeFavicon(src) {
@@ -51,6 +51,6 @@ function changeFavicon(src) {
  document.head.appendChild(link);
 }
  
-changeFavicon('http://goodoldliu.github.io/liu-old-content/faviconnn.ico');
+changeFavicon('https://goodoldliu.github.io/liu-old-content/faviconnn.ico');
     
 }
