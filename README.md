@@ -1,6 +1,6 @@
-# goodoldliu.github.io browser addon
+# The browser addon that makes a super duper transform!
 ![SuperDuper Transform](img/banner.png)
-
+[Homepage](http://goodoldliu.github.io/)
 
 Old css and images in release ```liu-old-content```, greasemonkey extesion which is converted to Firefox and Chrome is found in ```src/greasemonkey/goodOldLiU.user.js```
 
